@@ -1,0 +1,31 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-blue {
+  background: #242424;
+  width: 400px;
+  height: 550px;
+  border-radius: 20px;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.container {
+  align-items: center;
+  box-shadow: 0 0 10px #585858;
+}
